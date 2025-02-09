@@ -1,3 +1,0 @@
-1. Some Bugs Fix.
-2. Improve UI
-3. Adding Bill features
